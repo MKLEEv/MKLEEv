@@ -36,10 +36,6 @@ Web development
 <!-- 사용할 수 있는 언어 및 툴 -->
 <!-- 글자 -->
 ## Languages and Tools
-Java
-JavaScript
-HTML
-CSS
 <!-- 뱃지 -->
 ![Static Badge](https://img.shields.io/badge/JAVA-lightgreen)
 ![Static Badge](https://img.shields.io/badge/javascript-F7DF12?logo=javascript&logoColor=black)
