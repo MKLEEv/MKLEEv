@@ -29,9 +29,9 @@ Web development
 
 <!-- 최근 프로젝트 --> <!-- [표시내용](링크 url) -->
 ## Latest Projects
-[1. DBO League (bulls and cows Web Game)](https://github.com/ha-neu1/DBOLeague.git)
-[2. ECOLINK (Web community for upcycling)](https://github.com/ha-neu1/ecoLink.git)
-[3. KAKAOTALK clone Project](https://github.com/MiniProject-Kakao/kakaotalk_clone.git)
+[1. DBO League (bulls and cows Web Game)](https://github.com/ha-neu1/DBOLeague.git)  
+[2. ECOLINK (Web community for upcycling)](https://github.com/ha-neu1/ecoLink.git)  
+[3. KAKAOTALK clone Project](https://github.com/MiniProject-Kakao/kakaotalk_clone.git)  
 
 <!-- 사용할 수 있는 언어 및 툴 -->
 <!-- 글자 -->
