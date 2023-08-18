@@ -48,5 +48,5 @@ CSS
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKLEEv&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKLEEv&layout=compact) -->
 
