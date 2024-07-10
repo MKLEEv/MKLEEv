@@ -39,6 +39,7 @@ Web development
 <!-- 뱃지 -->
 ![Static Badge](https://img.shields.io/badge/JAVA-lightgreen)
 ![Static Badge](https://img.shields.io/badge/javascript-F7DF12?logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua)
 ![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white)
